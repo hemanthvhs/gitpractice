@@ -6,4 +6,4 @@
 4. GREEN
 6. ORANGE
 5. YELLOW
-7. Pink
+7. PINK
