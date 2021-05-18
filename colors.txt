@@ -6,4 +6,7 @@
 4. GREEN
 5. YELLOW
 6. ORANGE
+--------------------------
+*****OTHER COLORS*****
 7. PINK
+8. RED
